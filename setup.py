@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="geospatial_fm",
-    version="0.1.0",
+    version="0.1.1",
     description="MMSegmentation classes for geospatial-fm finetuning",
     author="Paolo Fraccaro, Carlos Gomes, Johannes Jakubik",
     packages=["geospatial_fm"],
